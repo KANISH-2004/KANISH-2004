@@ -2,27 +2,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=KANISH-2004&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 I'm a Computer Science student passionate about **Artificial Intelligence & Data Science**.
+🎓 Computer Science Student passionate about **Artificial Intelligence & Data Science**
 
-💻 I enjoy building projects using **Python, Machine Learning and Web Technologies**.
+🐍 Python Developer | 🤖 AI/ML Enthusiast
 
-🤖 Currently exploring **AI, ML, Data Science and Automation**.
+💡 Interested in building real-world applications using technology.
 
-🌱 Always learning something new and turning ideas into projects.
+🌱 Currently learning **AI, Machine Learning, Data Science & Web Development**
 
-🎯 Goal: Build useful technology that solves real-world problems.
+🚀 Always learning, building and improving.
 
 ---
 
@@ -30,27 +30,26 @@
 
 <p align="center">
 
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode,flask&perline=6" />
-</a>
 
 </p>
 
 ---
 
-## 📌 Current Projects
+## 🚀 Current Projects
 
 ### 🏠 Rent My Things
-A platform that makes renting items easier and safer by connecting **item owners and renters**.
 
-**Features:**
+A platform designed to make item renting easier, safer and more convenient.
+
 - 🔐 Secure User Verification
 - 💳 Integrated Payments
 - 📍 Location-Based Discovery
 - ⭐ Review & Rating System
 
 ### 🤖 AI College Enquiry Chatbot
-An AI-powered chatbot designed to answer college-related queries such as:
+
+An AI-powered chatbot designed to answer college-related queries.
 
 - 🎓 Courses
 - 💰 Fees
@@ -65,9 +64,9 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KANISH-2004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-2004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -77,7 +76,7 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KANISH-2004&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -85,13 +84,14 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 ## 🧰 Tools I Use
 
-| Tool | Purpose |
+| 🛠️ Tool | 🎯 Purpose |
 |---|---|
-| 🐍 Python | Programming & AI/ML |
-| ☕ Java | OOP & Application Development |
-| 🗄️ MySQL | Database Management |
-| 🌐 HTML/CSS/JS | Web Development |
-| 🧠 Flask | Python Web Applications |
+| 🐍 Python | AI / ML / Programming |
+| ☕ Java | OOP & Development |
+| 💻 C | Programming |
+| 🌐 HTML / CSS / JS | Web Development |
+| 🗄️ MySQL | Database |
+| 🧠 Flask | Web Applications |
 | 📝 VS Code | Development |
 | 🔧 Git & GitHub | Version Control |
 
@@ -101,7 +101,7 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KANISH-2004&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -111,7 +111,7 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=KANISH-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>
 
@@ -119,23 +119,23 @@ An AI-powered chatbot designed to answer college-related queries such as:
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/KANISH-2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat. 🚀"
+### 💡 Code. Learn. Build. Repeat. 🚀
 
 ⭐ Thanks for visiting my profile!
 
