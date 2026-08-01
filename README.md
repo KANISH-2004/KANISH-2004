@@ -10,7 +10,8 @@
   <a href="https://github.com/KANISH-2004">
     <img src="https://img.shields.io/badge/GitHub-KANISH--2004-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
