@@ -46,7 +46,7 @@
 
 ## 🚀 Current Projects
 
-### 🏠 Rent My Things
+### 🏠 ReNThings
 
 A platform designed to make item renting easier, safer and more convenient.
 
