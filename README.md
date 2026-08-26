@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<img src="profile.jpg" alt="Kanish Kumar" width="220" style="border-radius: 12px;" />
-
 # 👋 Hi, I'm Kanish Kumar
 
 # 🚀 AI & Data Science Enthusiast
