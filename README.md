@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="KANISH-2004's GitHub profile" src="dark_mode.svg" width="100%" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
+    <img alt="KANISH-2004's GitHub Profile" src="./dark_mode.svg" width="100%" />
+  </picture>
+</div>
 
 <!-- Dynamic Waving Header Banner -->
 <div align="center">
