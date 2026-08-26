@@ -8,7 +8,7 @@
 
 <!-- Dynamic Waving Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=180&section=header&text=Kanish%20Kumar%20👋&fontSize=42&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer%20%7C%20Building%20Intelligent%20Real-World%20Systems&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=c9d1d9" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=180&section=header&text=Kanish%20Kumar&fontSize=42&fontAlignY=38&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Building%20Intelligent%20Real-World%20Systems&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=c9d1d9" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Sliding Typing Intro Animation -->
