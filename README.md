@@ -8,31 +8,42 @@
 
 <!-- Dynamic Waving Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=180&section=header&text=Kanish%20Kumar&fontSize=42&fontAlignY=38&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Building%20Intelligent%20Real-World%20Systems&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=c9d1d9" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Kanish%20Kumar&fontSize=42&fontAlignY=38&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Building%20Intelligent%20Real-World%20Systems&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=c9d1d9" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Sliding Typing Intro Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Intelligent+%26+Scalable+Web+Systems+%E2%9CA8;Passionate+about+Python%2C+TypeScript+%26+Modern+AI+%F0%9F%A7%A0;Creator+of+Returnly%2C+QueueLess+%26+AI+Project+Doctor+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=760&lines=AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Intelligent+%26+Scalable+Web+Systems+%E2%9CA8;Passionate+about+Python%2C+TypeScript+%26+Modern+AI+%F0%9F%A7%A0;Creator+of+Returnly%2C+QueueLess+%26+AI+Project+Doctor+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Quick Action Badges -->
-<p align="center">
-  <a href="https://github.com/KANISH-2004">
-    <img src="https://img.shields.io/badge/GitHub-KANISH--2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kanishkumar2204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/KANISH-2004?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-5%20Active-238636?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
-  </a>
-</p>
+<br />
+
+<!-- Quick Action & Discipline Badges -->
+<div align="center">
+
+[![Computer Science](https://img.shields.io/badge/Computer%20Science-0969DA?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/KANISH-2004)
+[![Full Stack Engineering](https://img.shields.io/badge/Full%20Stack%20Engineering-1F6FEB?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/KANISH-2004)
+[![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-8957E5?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/KANISH-2004)
+[![Location](https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-238636?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps)
+
+<br />
+
+<a href="https://github.com/KANISH-2004"><img src="https://img.shields.io/badge/GitHub-KANISH--2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kanishkumar2204@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/KANISH-2004?tab=repositories"><img src="https://img.shields.io/badge/Repositories-5%20Active-238636?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=KANISH-2004&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/KANISH-2004?label=FOLLOWERS&style=flat-square&color=238636" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/KANISH-2004?label=STARS&style=flat-square&color=D29922" alt="Stars" />
+
+</div>
 
 ---
 
@@ -47,33 +58,55 @@ passion: Designing intelligent, responsive systems that solve real-world problem
 status: Building Agentic AI, Predictive Systems & High-Performance Backends
 ```
 
+I am a **software engineer and AI-focused product builder** who enjoys turning ambiguous problems into dependable, measurable, and maintainable systems. My work sits at the intersection of backend architecture, full-stack product development, applied machine learning, and developer experience.
+
+I care about more than making software work once. I design for **clarity, observability, security, performance, and long-term ownership**. From shaping an initial product concept to operating production services, I bring a product engineering mindset to every layer of the stack.
+
 - 🔭 **Currently Building:** AI-driven applications with modern full-stack architectures (TypeScript, React, Node.js, Python, Flask & FastAPI).
-- 🌱 **Deepening Knowledge In:** Machine Learning models, predictive algorithms, real-time sync systems, and secure auth workflows.
+- 🌱 **Deepening Knowledge In:** Distributed systems, predictive algorithms, retrieval-augmented generation (RAG), and real-time sync systems.
 - 💡 **Philosophy:** Great software is fast, intuitive, secure, and delivers measurable real-world value.
 - 💬 **Ask me about:** Python, TypeScript, React, System Design, AI/ML integrations, and Database Architecture.
+
+#### Open To
+
+I am open to conversations about **software engineering opportunities, AI engineering, platform engineering, developer tools, open-source collaboration, technical writing, and ambitious product ideas**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,fastapi,flask,html,css,tailwind,mysql,mongodb,git,github,vscode,postman,docker&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,fastapi,flask,html,css,tailwind,mysql,mongodb,postgres,docker,git,github,vscode,postman&perline=10" alt="Tech Stack Icons" />
 </div>
 
-<br>
+<br />
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **🧠 Languages & Core** | `Python`, `TypeScript`, `JavaScript`, `Java`, `C`, `SQL` |
-| **🌐 Frontend & UI** | `React.js`, `HTML5`, `CSS3 / Vanilla CSS`, `Tailwind CSS`, `Responsive Design` |
-| **⚙️ Backend & APIs** | `Node.js`, `Express.js`, `FastAPI`, `Flask`, `RESTful APIs`, `JWT Auth` |
-| **🗄️ Databases & Storage** | `MySQL`, `MongoDB`, `PostgreSQL`, `Cloud Storage` |
-| **🤖 AI & Data Science** | `Machine Learning`, `NLP`, `Predictive Modeling`, `Computer Vision`, `LLM Integration` |
-| **🛠️ Tools & DevOps** | `Git`, `GitHub`, `VS Code`, `Postman`, `Docker`, `GitHub Actions` |
+| **🧠 Languages & Core** | `Python`, `TypeScript`, `JavaScript`, `Java`, `C`, `SQL`, `Bash` |
+| **🌐 Frontend & UI** | `React.js`, `HTML5`, `CSS3 / Vanilla CSS`, `Tailwind CSS`, `Responsive Design`, `Figma` |
+| **⚙️ Backend & APIs** | `Node.js`, `Express.js`, `FastAPI`, `Flask`, `RESTful APIs`, `JWT Auth`, `WebSockets` |
+| **🗄️ Databases & Storage** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis`, `Cloud Storage` |
+| **🤖 AI & Data Science** | `Machine Learning`, `NLP`, `Predictive Modeling`, `Computer Vision`, `LLM Integration`, `RAG` |
+| **🛠️ Tools & DevOps** | `Git`, `GitHub`, `GitHub Actions`, `Docker`, `VS Code`, `Postman` |
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| **Machine Learning** | Advanced | Supervised learning, predictive modeling, feature engineering, and inference pipelines. |
+| **Deep Learning** | Advanced | Neural architectures, representation learning, and custom model fine-tuning. |
+| **Natural Language Processing** | Advanced | Semantic search, text classification, embeddings, information extraction, and intent parsing. |
+| **Generative AI & LLMs** | Advanced | LLM application workflows, prompt engineering, structured outputs, and autonomous agent loops. |
+| **Retrieval-Augmented Generation** | Advanced | Document ingestion, vector search, chunking, reranking, and citation-grounded generation. |
+| **Computer Vision** | Intermediate | Image classification, multimodal visual similarity matching, and visual data verification. |
+| **Responsible AI & Security** | Intermediate | Privacy-preserving workflows, input validation, output safety guardrails, and auditability. |
+
+---
+
+### 🚀 Featured Projects & Repositories
 
 <table>
   <tr>
@@ -151,7 +184,7 @@ status: Building Agentic AI, Predictive Systems & High-Performance Backends
       <p>
         <a href="https://github.com/KANISH-2004/college-Chatbot-AI"><strong>View AI Chatbot Repository →</strong></a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
-        <a href="https://github.com/KANISH-2004?tab=repositories"><strong>Browse All 5+ Repositories →</strong></a>
+        <a href="https://github.com/KANISH-2004?tab=repositories"><strong>Browse All Active Repositories →</strong></a>
       </p>
     </td>
   </tr>
@@ -159,52 +192,178 @@ status: Building Agentic AI, Predictive Systems & High-Performance Backends
 
 ---
 
+### 💼 Engineering Experience & Leadership
+
+#### AI & Full-Stack Engineer · Product Development
+**Present**
+- Architect and develop end-to-end intelligent web platforms utilizing React, Node.js, Python, and modern AI APIs.
+- Design resilient REST APIs, schema definitions, and authentication boundaries.
+- Build predictive algorithms and automated analytical workflows with real-time UI synchronization.
+- Implement proactive code health, automated testing, and developer tooling.
+
+#### Open Source & Developer Community
+**Ongoing**
+- Build focused, open-source solutions addressing developer productivity, health audits, and community aid.
+- Explore agentic AI patterns, retrieval workflows, and high-performance full-stack architectures.
+
+---
+
+### 🏆 Achievements & Key Milestones
+
+<div align="center">
+
+| Area | Milestone / Impact |
+|:---:|:---|
+| 🚀 **Product Delivery** | Shipped full-stack AI applications including Returnly, QueueLess, and AI Project Doctor. |
+| 🧠 **AI Innovation** | Implemented multimodal matching, predictive wait-time forecasting, and automated code health auditing. |
+| 🌐 **Open Source** | Actively publishing maintainable, modular software repositories for the developer community. |
+| ⚡ **System Design** | Focused on creating clean architecture, resilient data pipelines, and responsive interfaces. |
+
+</div>
+
+---
+
+### 📜 Certifications & Credentials
+
+<div align="center">
+
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/)
+[![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/oracle-certification-benefits)
+[![NPTEL](https://img.shields.io/badge/NPTEL-4C1D95?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
+[![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
+
+</div>
+
+---
+
+### 💻 Competitive Coding & Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/KANISH-2004/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/KANISH-2004/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://www.hackerrank.com/KANISH-2004">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+<a href="https://www.codechef.com/users/KANISH-2004">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+<br /><br />
+
+<img src="https://leetcard.jacoblin.cool/KANISH-2004?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode statistics" width="520" />
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics & Overview
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/KANISH-2004">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KANISH-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KANISH-2004">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/KANISH-2004">
-          <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=KANISH-2004&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/KANISH-2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KANISH-2004&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/KANISH-2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</a>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=KANISH-2004&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff&sideLabels=79c0ff&dates=8b949e" alt="GitHub contribution streak" />
+
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KANISH-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KANISH-2004&bg_color=0D1117&color=58A6FF&line=79C0FF&point=A5D6FF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KANISH-2004/KANISH-2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+learning:
+  - Distributed systems and resilient event-driven architecture
+  - Advanced LLM evaluation and retrieval-augmented generation
+  - High-performance predictive models and caching layers
+
+building:
+  - Agentic AI productivity and diagnostic software
+  - Reliable full-stack products with clean interfaces
+  - Open-source tools for engineering teams
+
+exploring:
+  - Autonomous AI workflows with human-in-the-loop controls
+  - Privacy-preserving machine learning applications
+  - Real-time collaborative web interfaces
+
+open_to:
+  - Full-stack & AI engineering opportunities
+  - Platform & developer productivity collaboration
+  - Open-source projects and technical conversations
+```
 
 ---
 
 ### 📬 Connect & Collaborate
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:kanishkumar2204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/KANISH-2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+<a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:kanishkumar2204@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/KANISH-2004" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://github.com/KANISH-2004?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+</a>
+
 </div>
 
-<br>
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+> Build with intent. Ship with discipline. Learn without limits.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=110&section=footer" width="100%" alt="Footer Banner" />
+
 </div>
