@@ -227,10 +227,11 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 <div align="center">
 
-[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/oracle-certification-benefits)
-[![NPTEL](https://img.shields.io/badge/NPTEL-4C1D95?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-[![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
+[![MongoDB Certified](https://img.shields.io/badge/MongoDB-Certified%20Developer-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://learn.mongodb.com/)
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas%20Cloud%20Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://learn.mongodb.com/)
+[![MongoDB Aggregation](https://img.shields.io/badge/MongoDB-Aggregation%20%26%20Data%20Modeling-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://learn.mongodb.com/)
+[![MongoDB Node.js](https://img.shields.io/badge/MongoDB-Node.js%20Developer%20Path-47A248?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://learn.mongodb.com/)
+[![MongoDB Python](https://img.shields.io/badge/MongoDB-Python%20Developer%20Path-001E2B?style=for-the-badge&logo=python&logoColor=47A248)](https://learn.mongodb.com/)
 
 </div>
 
@@ -269,7 +270,7 @@ I am open to conversations about **software engineering opportunities, AI engine
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KANISH-2004&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/KANISH-2004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 <br /><br />
