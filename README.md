@@ -223,15 +223,23 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 ---
 
-### 📜 Certifications & Credentials
+### 📜 Certifications & Verified Credentials
 
 <div align="center">
 
-[![MongoDB Certified](https://img.shields.io/badge/MongoDB-Certified%20Developer-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://learn.mongodb.com/)
-[![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas%20Cloud%20Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://learn.mongodb.com/)
-[![MongoDB Aggregation](https://img.shields.io/badge/MongoDB-Aggregation%20%26%20Data%20Modeling-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://learn.mongodb.com/)
-[![MongoDB Node.js](https://img.shields.io/badge/MongoDB-Node.js%20Developer%20Path-47A248?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://learn.mongodb.com/)
-[![MongoDB Python](https://img.shields.io/badge/MongoDB-Python%20Developer%20Path-001E2B?style=for-the-badge&logo=python&logoColor=47A248)](https://learn.mongodb.com/)
+[![Building AI Agents with MongoDB](https://img.shields.io/badge/MongoDB-Building%20AI%20Agents-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/61bf0c16-85b1-46f6-be67-1ea30c7abf86)
+[![Building RAG Apps Using MongoDB](https://img.shields.io/badge/MongoDB-RAG%20Apps-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/95874c30-b14d-4d7f-a681-308ff83380da)
+[![MongoDB Vector Search](https://img.shields.io/badge/MongoDB-Vector%20Search-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/b78d854f-33f9-4728-bddb-58e2b1ac598f)
+[![MongoDB Basics for Students](https://img.shields.io/badge/MongoDB-Basics%20for%20Students-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/b57c6cfd-9a6d-4320-b760-3391136999ce)
+
+<br /><br />
+
+| Certificate / Credential | Domain | Issuer | Credential Verification |
+| :--- | :--- | :---: | :---: |
+| **Building AI Agents with MongoDB** | Agentic AI & Systems | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/61bf0c16-85b1-46f6-be67-1ea30c7abf86) |
+| **Building RAG Apps Using MongoDB** | Retrieval-Augmented Generation | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/95874c30-b14d-4d7f-a681-308ff83380da) |
+| **AI-Powered Search with MongoDB Vector Search** | Embeddings & Vector Search | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/b78d854f-33f9-4728-bddb-58e2b1ac598f) |
+| **MongoDB Basics for Students** | Document Database & CRUD | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/b57c6cfd-9a6d-4320-b760-3391136999ce) |
 
 </div>
 
