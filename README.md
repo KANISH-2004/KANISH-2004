@@ -231,6 +231,10 @@ I am open to conversations about **software engineering opportunities, AI engine
 [![Building RAG Apps Using MongoDB](https://img.shields.io/badge/MongoDB-RAG%20Apps-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/95874c30-b14d-4d7f-a681-308ff83380da)
 [![MongoDB Vector Search](https://img.shields.io/badge/MongoDB-Vector%20Search-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/b78d854f-33f9-4728-bddb-58e2b1ac598f)
 [![MongoDB Basics for Students](https://img.shields.io/badge/MongoDB-Basics%20for%20Students-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.credly.com/badges/b57c6cfd-9a6d-4320-b760-3391136999ce)
+<br />
+[![Google Cloud Generative AI](https://img.shields.io/badge/Google%20Cloud-Generative%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27371734)
+[![Google Cloud Large Language Models](https://img.shields.io/badge/Google%20Cloud-Large%20Language%20Models-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27372301)
+[![Google Cloud Study Guide PMLE](https://img.shields.io/badge/Google%20Cloud-Study%20Guide%20PMLE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27372830)
 
 <br /><br />
 
@@ -240,6 +244,9 @@ I am open to conversations about **software engineering opportunities, AI engine
 | **Building RAG Apps Using MongoDB** | Retrieval-Augmented Generation | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/95874c30-b14d-4d7f-a681-308ff83380da) |
 | **AI-Powered Search with MongoDB Vector Search** | Embeddings & Vector Search | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/b78d854f-33f9-4728-bddb-58e2b1ac598f) |
 | **MongoDB Basics for Students** | Document Database & CRUD | MongoDB | [Verify on Credly ↗](https://www.credly.com/badges/b57c6cfd-9a6d-4320-b760-3391136999ce) |
+| **Introduction to Generative AI** | Generative AI Concepts | Google Cloud | [Verify on Google Skills ↗](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27371734) |
+| **Introduction to Large Language Models** | Large Language Models (LLMs) | Google Cloud | [Verify on Google Skills ↗](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27372301) |
+| **Build a Certification Study Guide: PMLE** | ML Engineer Study Guide | Google Cloud | [Verify on Google Skills ↗](https://www.skills.google/public_profiles/54100f4d-906e-449f-9667-adedf1d8795d/badges/27372830) |
 
 </div>
 
