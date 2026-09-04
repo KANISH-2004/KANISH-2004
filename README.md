@@ -33,7 +33,7 @@
 <a href="https://github.com/KANISH-2004"><img src="https://img.shields.io/badge/GitHub-KANISH--2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/kanish-kumar-k-07a16a332/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kanishkumar2204@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/KANISH-2004?tab=repositories"><img src="https://img.shields.io/badge/Repositories-5%20Active-238636?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/KANISH-2004?tab=repositories"><img src="https://img.shields.io/badge/Repositories-6%20Active-238636?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 
 <br /><br />
 
@@ -178,12 +178,42 @@ I am open to conversations about **software engineering opportunities, AI engine
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h3>🤖 <a href="https://github.com/KANISH-2004/college-Chatbot-AI">AI College Enquiry Chatbot</a></h3>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 <a href="https://github.com/KANISH-2004/EMPLOYEE-SALARY-PREDICTION">Employee Salary Prediction</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Streamlit%20%7C%20Scikit--Learn%20%7C%20Python-blue?style=flat-square" />
+      </p>
+      <p>An interactive ML application accurately predicting annual employee compensation with <strong>Linear Regression</strong> based on experience, education, and job roles.</p>
+      <ul>
+        <li>🔮 Real-time salary estimation & interactive inputs</li>
+        <li>📊 Comprehensive evaluation metrics (R², MAE, RMSE)</li>
+        <li>📈 Exploratory data analysis & statistical distributions</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/KANISH-2004/EMPLOYEE-SALARY-PREDICTION"><strong>Explore Repo →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/KANISH-2004/college-Chatbot-AI">AI College Enquiry Chatbot</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-NLP%20%7C%20Python%20%7C%20AI-teal?style=flat-square" />
+      </p>
       <p>Intelligent NLP chatbot assisting students 24/7 with instant information regarding admissions, curriculums, examinations, schedules, fees, and campus services.</p>
+      <ul>
+        <li>🎓 24/7 automated campus & admission inquiries</li>
+        <li>💬 Natural language intent classification & response</li>
+        <li>⚡ Quick query resolution for academic schedules</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/KANISH-2004/college-Chatbot-AI"><strong>Explore Repo →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <p>
-        <a href="https://github.com/KANISH-2004/college-Chatbot-AI"><strong>View AI Chatbot Repository →</strong></a>
-        &nbsp;&nbsp;•&nbsp;&nbsp;
         <a href="https://github.com/KANISH-2004?tab=repositories"><strong>Browse All Active Repositories →</strong></a>
       </p>
     </td>
@@ -214,7 +244,7 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 | Area | Milestone / Impact |
 |:---:|:---|
-| 🚀 **Product Delivery** | Shipped full-stack AI applications including Returnly, QueueLess, and AI Project Doctor. |
+| 🚀 **Product Delivery** | Shipped full-stack AI applications including Returnly, QueueLess, AI Project Doctor, and Employee Salary Prediction. |
 | 🧠 **AI Innovation** | Implemented multimodal matching, predictive wait-time forecasting, and automated code health auditing. |
 | 🌐 **Open Source** | Actively publishing maintainable, modular software repositories for the developer community. |
 | ⚡ **System Design** | Focused on creating clean architecture, resilient data pipelines, and responsive interfaces. |
