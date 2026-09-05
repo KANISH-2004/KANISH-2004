@@ -286,7 +286,7 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 <div align="center">
 
-<a href="https://leetcode.com/KANISH-2004/">
+<a href="https://leetcode.com/u/kanishkumar/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/KANISH-2004/">
@@ -301,7 +301,9 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 <br /><br />
 
-<img src="https://leetcard.jacoblin.cool/KANISH-2004?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode statistics" width="520" />
+<a href="https://leetcode.com/u/kanishkumar/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/kanishkumar?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode statistics" width="520" />
+</a>
 
 </div>
 
