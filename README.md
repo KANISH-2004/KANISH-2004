@@ -292,7 +292,7 @@ I am open to conversations about **software engineering opportunities, AI engine
 <a href="https://auth.geeksforgeeks.org/user/KANISH-2004/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
-<a href="https://www.hackerrank.com/KANISH-2004">
+<a href="https://www.hackerrank.com/profile/kanishkumar2204" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
 </a>
 <a href="https://www.codechef.com/users/KANISH-2004">
