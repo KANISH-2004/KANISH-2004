@@ -326,21 +326,11 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KANISH-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KANISH-2004&bg_color=0D1117&color=58A6FF&line=79C0FF&point=A5D6FF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/58A6FF/KANISH-2004" alt="KANISH-2004's Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -350,7 +340,11 @@ I am open to conversations about **software engineering opportunities, AI engine
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KANISH-2004/KANISH-2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KANISH-2004/KANISH-2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KANISH-2004/KANISH-2004/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KANISH-2004/KANISH-2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+</picture>
 
 </div>
 
